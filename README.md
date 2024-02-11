@@ -50,6 +50,8 @@
 
 - When a user clicks on the 'View Product' button, a new page will open displaying the product's name, detailed description, price, and a 'Back to Home Page' button.
 
+![Adding dos](./digikala/images/description-product.png)
+
 # User Forms
 
 ## Create account form
