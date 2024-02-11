@@ -16,7 +16,7 @@
 
 ## Navbar
 
-![Adding dos](./digikala/images/NAVBAR.png)
+![Adding dos](./digikala/images/Navbarr.png)
 
 - Includes links to all the different pages accross the site.
 - The navbar is accessible in any page of sites
