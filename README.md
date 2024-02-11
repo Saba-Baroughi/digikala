@@ -37,6 +37,9 @@
 
 - There are eight products featured on our homepage. Users can view all of them by scrolling down.
   ![Adding dos](./digikala/images/Products.png)
+
+# Product
+
 - There are some features including Name, Description, Price, Category, Picture, Star, and On-sale tags.
   ![Adding dos](./digikala/images/Product.png)
 
