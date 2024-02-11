@@ -42,8 +42,13 @@
 # Product
 
 - There are some features including Name, Description, Price, Category, Picture, Star, and On-sale tags.
+- If a user clicks on the 'View Product' button, it directs them to a new page providing detailed information about the product.
 
   ![Adding dos](./digikala/images/Product.png)
+
+# View Product page
+
+- When a user clicks on the 'View Product' button, a new page will open displaying the product's name, detailed description, price, and a 'Back to Home Page' button.
 
 # User Forms
 
