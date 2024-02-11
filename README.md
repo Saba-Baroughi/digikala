@@ -29,9 +29,9 @@
 
 ![Adding dos](./digikala/images/home-page.png)
 
-![Adding dos](./digikala/images/Untitled.png)
-
 - Users can access all products, popular items, or specific categories such as bags.
+
+![Adding dos](./digikala/images/Untitled.png)
 
 # Products
 
