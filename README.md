@@ -16,7 +16,41 @@
 
 ## Navbar
 
-![Adding dos](./digikala/images/Navbar.png)
+![Adding dos](./digikala/images/NAVBAR.png)
+
+- Includes links to all the different pages accross the site.
+- The navbar is accessible in any page of sites
+- Is responsive on smaller screens turning into a side nav on small devices.
+- When a user is logged in, the signup and login options are replaced with a sign-out option.
+
+# Home page
+
+- The homepage of my website includes a selection of products and a navigation bar for easy browsing
+  ![Adding dos](./digikala/images/home-page.png)
+
+![Adding dos](./digikala/images/Untitled.png)
+
+- Users can access all products, popular items, or specific categories such as bags.
+
+# Products
+
+- There are eight products featured on our homepage. Users can view all of them by scrolling down.
+  ![Adding dos](./digikala/images/Products.png)
+- There are some features including Name, Description, Price, Category, Picture, Star, and On-sale tags.
+  ![Adding dos](./digikala/images/Product.png)
+
+# User Forms
+
+## Create account form
+
+-Allows a new user to create an account on the database
+![Adding dos](./digikala/images/Form.png)
+
+## Login form
+
+- Allows a returning user to log back into their account
+  ![Adding dos](./digikala/images/login.png)
+
 there are three Django models: Category, Customer, and Product. Let's analyze the relationships between them:
 
 Category Model:
