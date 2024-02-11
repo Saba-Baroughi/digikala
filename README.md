@@ -23,15 +23,15 @@
 - Is responsive on smaller screens turning into a side nav on small devices.
 - When a user is logged in, the signup and login options are replaced with a sign-out option.
 
+![Adding dos](./digikala/images/Untitled.png)
+
+- Users can access all products, popular items, or specific categories such as bags.
+
 # Home page
 
 - The homepage of my website includes a selection of products and a navigation bar for easy browsing.
 
 ![Adding dos](./digikala/images/home-page.png)
-
-- Users can access all products, popular items, or specific categories such as bags.
-
-![Adding dos](./digikala/images/Untitled.png)
 
 # Products
 
