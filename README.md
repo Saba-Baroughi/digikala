@@ -35,7 +35,7 @@
 
 # Products
 
-- There are eight products featured on our homepage. Users can view all of them by scrolling down.
+- There are ten products featured on our homepage. Users can view all of them by scrolling down.
 
   ![Adding dos](./digikala/images/Products.png)
 
@@ -52,6 +52,12 @@
 
 ![Adding dos](./digikala/images/description-product.png)
 
+# About
+
+- There is an 'About' page that describes the story of our company.
+
+![Adding dos](./digikala/images/About.png)
+
 # User Forms
 
 ## Create account form
@@ -65,6 +71,10 @@
 - Allows a returning user to log back into their account
 
   ![Adding dos](./digikala/images/login.png)
+
+# Future Features
+
+Because of the time restraint I had when developing this site there are a number of features that I want to add in the near future that i've listed below:
 
 there are three Django models: Category, Customer, and Product. Let's analyze the relationships between them:
 
