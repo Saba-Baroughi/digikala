@@ -25,8 +25,9 @@
 
 # Home page
 
-- The homepage of my website includes a selection of products and a navigation bar for easy browsing
-  ![Adding dos](./digikala/images/home-page.png)
+- The homepage of my website includes a selection of products and a navigation bar for easy browsing.
+
+![Adding dos](./digikala/images/home-page.png)
 
 ![Adding dos](./digikala/images/Untitled.png)
 
