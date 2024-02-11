@@ -36,11 +36,13 @@
 # Products
 
 - There are eight products featured on our homepage. Users can view all of them by scrolling down.
+
   ![Adding dos](./digikala/images/Products.png)
 
 # Product
 
 - There are some features including Name, Description, Price, Category, Picture, Star, and On-sale tags.
+
   ![Adding dos](./digikala/images/Product.png)
 
 # User Forms
@@ -48,11 +50,13 @@
 ## Create account form
 
 -Allows a new user to create an account on the database
+
 ![Adding dos](./digikala/images/Form.png)
 
 ## Login form
 
 - Allows a returning user to log back into their account
+
   ![Adding dos](./digikala/images/login.png)
 
 there are three Django models: Category, Customer, and Product. Let's analyze the relationships between them:
