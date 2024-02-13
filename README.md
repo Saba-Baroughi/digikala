@@ -109,3 +109,19 @@ As it displays the user accounts, products, and categories, they are being saved
 
 ![Adding dos](./digikala/images/Users-Authentication.png)
 ![Adding dos](./digikala/images/admin.png)
+
+# Technologies Used
+
+## HTML5 To create the structure and the content of the website
+
+## CSS3 To create the style for the website and its content
+
+## Javascript creates the functionality for the website
+
+## Python creates the backend for the website
+
+## Django
+
+# Bugs
+
+- Heroku doesn't connect to database correctly resulting in errors when on the deployed site, the error doesn't occur if I host the site locally in github.
