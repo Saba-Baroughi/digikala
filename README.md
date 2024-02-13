@@ -86,17 +86,17 @@ By implementing these features, I aim to enhance the functionality and user expe
 
 there are three Django models: Customer, Category, and Product. Let's analyze the relationships between them:
 
-- Category Model:
+- Customer Model:
 
 This model represents a customer.
 There is no explicit relationship defined in this model.
 
-- Product Model:
+- Category Model:
 
 This model represents a category for products.
 There is no explicit relationship defined in this model.
 
-- Customer Model:
+- Product Model:
 
 This model represents a product.
 It has a ForeignKey relationship with the Category model, indicating that each product belongs to a single category. This is a many-to-one (or one-to-many) relationship where one category can have multiple products but each product belongs to only one category.
