@@ -74,19 +74,27 @@
 
 # Future Features
 
-Because of the time restraint I had when developing this site there are a number of features that I want to add in the near future that i've listed below:
+Given the time constraints during the development of this site, there are several features that I plan to implement in the near future. These include:
 
-there are three Django models: Category, Customer, and Product. Let's analyze the relationships between them:
+- Basket Feature: I aim to introduce a basket feature that allows users to select products and store them in their accounts. This feature will enhance the shopping experience by enabling users to collect items before making a purchase.
+
+- Payment Page: Additionally, I plan to integrate a payment page to facilitate seamless transactions. This will enable users to complete purchases directly on the site, improving convenience and efficiency.
+
+By implementing these features, I aim to enhance the functionality and user experience of the site, ultimately providing a more comprehensive and convenient platform for users to shop and make transactions.
+
+there are three Django models: Customer, Category, and Product. Let's analyze the relationships between them:
 
 Category Model:
 
+This model represents a customer.
+There is no explicit relationship defined in this model.
+
+Product Model:
 This model represents a category for products.
 There is no explicit relationship defined in this model.
 Customer Model:
 
-This model represents a customer.
-There is no explicit relationship defined in this model.
-Product Model:
-
 This model represents a product.
 It has a ForeignKey relationship with the Category model, indicating that each product belongs to a single category. This is a many-to-one (or one-to-many) relationship where one category can have multiple products but each product belongs to only one category.
+
+![Adding dos](./digikala/images/Database-Model.png)
