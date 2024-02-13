@@ -112,15 +112,15 @@ As it displays the user accounts, products, and categories, they are being saved
 
 # Technologies Used
 
-## HTML5 To create the structure and the content of the website
+- HTML5 To create the structure and the content of the website
 
-## CSS3 To create the style for the website and its content
+- CSS3 To create the style for the website and its content
 
-## Javascript creates the functionality for the website
+- Javascript creates the functionality for the website
 
-## Python creates the backend for the website
+- Python creates the backend for the website
 
-## Django
+- Django
 
 # Bugs
 
