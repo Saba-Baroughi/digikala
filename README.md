@@ -82,19 +82,30 @@ Given the time constraints during the development of this site, there are severa
 
 By implementing these features, I aim to enhance the functionality and user experience of the site, ultimately providing a more comprehensive and convenient platform for users to shop and make transactions.
 
+# Database
+
 there are three Django models: Customer, Category, and Product. Let's analyze the relationships between them:
 
-Category Model:
+- Category Model:
 
 This model represents a customer.
 There is no explicit relationship defined in this model.
 
-Product Model:
+- Product Model:
+
 This model represents a category for products.
 There is no explicit relationship defined in this model.
-Customer Model:
+
+- Customer Model:
 
 This model represents a product.
 It has a ForeignKey relationship with the Category model, indicating that each product belongs to a single category. This is a many-to-one (or one-to-many) relationship where one category can have multiple products but each product belongs to only one category.
 
 ![Adding dos](./digikala/images/Database-Model.png)
+
+## Django Administration
+
+As it displays the user accounts, products, and categories, they are being saved in our database.
+
+![Adding dos](./digikala/images/Users-Authentication.png)
+![Adding dos](./digikala/images/admin.png)
