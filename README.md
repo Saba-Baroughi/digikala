@@ -138,6 +138,10 @@ As it displays the user accounts, products, and categories, they are being saved
 
 - Django
 
+- ElephantSQL
+
 # Bugs
+
+## Deployment
 
 - Heroku doesn't connect to database correctly resulting in errors when on the deployed site, the error doesn't occur if I host the site locally in github.
