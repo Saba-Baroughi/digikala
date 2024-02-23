@@ -84,6 +84,10 @@ By implementing these features, I aim to enhance the functionality and user expe
 
 # Database
 
+I used ElephantSQL to as my database.
+
+![Adding dos](./digikala/images/ElephantSQL.png)
+
 there are three Django models: Customer, Category, and Product. Let's analyze the relationships between them:
 
 - Customer Model:
