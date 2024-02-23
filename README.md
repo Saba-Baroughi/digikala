@@ -52,6 +52,18 @@
 
 ![Adding dos](./digikala/images/description-product.png)
 
+# Popular Items
+
+- There is a seprate pages which shows Popular Items
+
+![Adding dos](./digikala/images/watches-popularItems.png)
+
+# Bags
+
+- There is a seprate page for Products
+
+![Adding dos](./digikala/images/Bags.png)
+
 # About
 
 - There is an 'About' page that describes the story of our company.
